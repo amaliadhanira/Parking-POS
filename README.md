@@ -1,4 +1,8 @@
 # Parking-POS
+
+Untuk check in dan check out belum ada ide seperti apa source code, tapi paham logikanya.
+Untuk bagian frontend belum paham pembuatannya walaupun sudah ada gambarannya
+
 Untuk login:
 - johncena@abc.com password: hu5tlELoy@ltYr3spEct
 - djohnson@abc.com password: L!fe15aNyth1n9butprEdiCtabl3
