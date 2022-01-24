@@ -1,7 +1,9 @@
 # Parking-POS
 
 Untuk check in dan check out belum ada ide seperti apa source code, tapi paham logikanya.
-Untuk bagian frontend belum paham pembuatannya walaupun sudah ada gambarannya
+Untuk bagian frontend belum paham pembuatannya walaupun sudah ada gambarannya.
+
+Untuk ERD dapat dilihat menggunakan app.diagram.net
 
 Untuk login:
 - johncena@abc.com password: hu5tlELoy@ltYr3spEct
